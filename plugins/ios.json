@@ -7,9 +7,42 @@
     "files": {}
   },
   "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    },
     "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    },
+    "cordova-plugin-camera": {
+      "CAMERA_USAGE_DESCRIPTION": " ",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
       "PACKAGE_NAME": "com.levizitting.cordovademo"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.levizitting.cordovademo"
+    }
+  }
 }
